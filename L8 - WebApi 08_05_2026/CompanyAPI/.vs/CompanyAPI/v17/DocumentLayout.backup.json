@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\companyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\companyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|c:\\users\\lenovo\\desktop\\companyapi\\companyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6431F331-7BCF-494A-BC62-94EA6097D8D4}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_LENOVO_DOCUMENTS_COMPANY.MDF/True/SqlTable/dbo.Employee.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_LENOVO_DOCUMENTS_COMPANY.MDF/True/SqlTable/dbo.Department.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\appsettings.json",
+              "RelativeToolTip": "CompanyAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T15:36:41.156Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Department.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_LENOVO_DOCUMENTS_COMPANY.MDF/True/SqlTable/dbo.Department.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_LENOVO_DOCUMENTS_COMPANY.MDF/True/SqlTable/dbo.Department.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-08T15:32:42.075Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Employee.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_LENOVO_DOCUMENTS_COMPANY.MDF/True/SqlTable/dbo.Employee.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_LENOVO_DOCUMENTS_COMPANY.MDF/True/SqlTable/dbo.Employee.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-08T15:32:30.861Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CompanyAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:18:00.189Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "CompanyAPI\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswGQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:18:16.461Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Models\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\DepartmentDTO.cs",
+              "RelativeToolTip": "CompanyAPI\\Models\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:41:14.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Models\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\EmployeeDTO.cs",
+              "RelativeToolTip": "CompanyAPI\\Models\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:23:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Program.cs",
+              "RelativeToolTip": "CompanyAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:19:55.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\CompanyAPI.csproj",
+              "RelativeDocumentMoniker": "CompanyAPI\\CompanyAPI.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\CompanyAPI.csproj",
+              "RelativeToolTip": "CompanyAPI\\CompanyAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T16:06:26.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanyAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA4wCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:43:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\Department.cs",
+              "RelativeToolTip": "CompanyAPI\\Models\\Department.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:42:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Models\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CompanyAPI\\CompanyAPI\\Models\\CompanyDbContext.cs",
+              "RelativeToolTip": "CompanyAPI\\Models\\CompanyDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:42:26.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
